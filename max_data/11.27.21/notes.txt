@@ -1,0 +1,1 @@
+Accelerometer data stored in this directory
